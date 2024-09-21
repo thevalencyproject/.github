@@ -1,6 +1,6 @@
 # The Valency Project
 
-The Valency Project aims to fix the problems with existing Decentralised Networks and Cryptocurrency Exchanges. The project consists of a Decentralised Network and an Open-Source Decentralised Asset Exchange built on top of the network using smart contracts to execute most of the key exchange functions such as buying, selling, shorting and lending.<br><br>
+The Valency Project aims to fix the problems with existing Decentralised Networks and Cryptocurrency Exchanges. The project consists of a Decentralised Network and an Open-Source Centralised Crypto Exchange. <br><br>
 To read the full whitepaper, go to: https://valency.dev/The-Valency-Project.pdf 
 
 <br>
